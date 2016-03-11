@@ -1,0 +1,290 @@
+﻿/* ============================================================================================== 
+This copyright notice must be kept untouched in the stylesheet at all times.
+The original version of this stylesheet and the associated (x)html 
+is available at http://www.script-tutorials.com/bootstrap-one-page-template-with-parallax-effect/
+Copyright (c) Script Tutorials. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any way to fit your requirements.
+================================================================================================= */
+
+/* general styles */
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+/* padded section */
+.pad-section {
+  padding: 50px 0;
+}
+.pad-section img {
+  width: a;
+}
+
+/* vertical-centered text */
+.text-vcenter {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+.text-vcenter h1 {
+  font-size: 4.5em;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+
+/* additional sections */
+#home {
+  background: url(../images/home.jpg) no-repeat center  fixed; 
+  display: table;
+  height: 65%;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: auto;
+}
+
+#about {
+}
+
+#alcatel {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+#apple {
+  background-color: #306d9f;
+  color: #000000;
+}
+
+#blackberry {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+#htc {
+  background-color: #306d9f;
+  color: #000000;
+}
+
+#huawei{
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+#lg{
+  background-color: #306d9f;
+  color: #000000;
+}
+
+#motorola{
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+#nokia{
+  background-color: #306d9f;
+  color: #000000;
+}
+
+#pantech{
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+#samsung{
+  background-color: #306d9f;
+  color: #000000;
+}
+
+#sony{
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+#zte{
+  background-color: #306d9f;
+  color: #000000;
+}
+
+#services {
+  background-color: #306d9f;
+  color: #ffffff;
+}
+#services .glyphicon {
+  border: 2px solid #FFFFFF;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 60px;
+  height: 140px;
+  line-height: 140px;
+  text-align: center;
+  vertical-align: middle;
+  width: 140px;
+}
+
+#alcatel {
+  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#apple {
+  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#blackberry {
+  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#htc {
+  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#huawei {
+  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#lg {
+  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#motorola {
+  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#nokia {
+  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#pantech {
+  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#samsung {
+  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#sony {
+  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#zte{
+  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  display: table;
+  height: 800px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+#a .panel {
+  opacity: 0.85;
+}
+
+#google_map {
+  height: 500px;
+}
+
+footer {
+  padding: 20px 0;
+}
+footer .glyphicon {
+  color: #333333;
+  font-size: 60px;
+}
+footer .glyphicon:hover {
+  color: #306d9f;
+}
