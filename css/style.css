@@ -41,35 +41,6 @@ html, body {
 #about {
 }
 
-#alcatel {
-  background-color: #FFFFFF;
-  color: #000000;
-}
-
-#apple {
-  background-color: #306d9f;
-  color: #000000;
-}
-
-#blackberry {
-  background-color: #FFFFFF;
-  color: #000000;
-}
-
-#htc {
-  background-color: #306d9f;
-  color: #000000;
-}
-
-#huawei{
-  background-color: #FFFFFF;
-  color: #000000;
-}
-
-#lg{
-  background-color: #306d9f;
-  color: #000000;
-}
 
 #motorola{
   background-color: #FFFFFF;
@@ -118,75 +89,87 @@ html, body {
 }
 
 #alcatel {
-  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  background: url(../images/alcatel-logo.gif) no-repeat center fixed;
+  background-color: #FFFFFF;
+  color: #000000;
   display: table;
-  height: 800px;
+  height: 65%;
   position: relative;
   width: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: auto;
 }
 
 #apple {
-  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  background: url(../images/apple-logo.png) no-repeat center fixed;
+  background-color: #306d9f;
+  color: #000000;
   display: table;
-  height: 800px;
+  height: 65%;
   position: relative;
   width: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: auto;
 }
 
 #blackberry {
-  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  background: url(../images/blackberry-logo.png) no-repeat center fixed;
+  background-color: #FFFFFF;
+  color: #000000;
   display: table;
-  height: 800px;
+  height: 65%;
   position: relative;
   width: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: auto;
 }
 
 #htc {
-  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  background: url(../images/htc-logo.png) no-repeat center fixed;
+  background-color: #306d9f;
+  color: #000000;  
   display: table;
-  height: 800px;
+  height: 65%;
   position: relative;
   width: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: auto;
 }
 
 #huawei {
-  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  background: url(../images/huawei-logo.png) no-repeat center fixed;
+  background-color: #FFFFFF;
+  color: #000000;
   display: table;
-  height: 800px;
+  height: 65%;
   position: relative;
   width: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: auto;
 }
 
 #lg {
-  /*background: url(../images/.jpg) no-repeat center center fixed; */
+  background: url(../images/lg-logo.gif) no-repeat center fixed;
+  background-color: #306d9f;
+  color: #000000;  
   display: table;
-  height: 800px;
+  height: 65%;
   position: relative;
   width: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: auto;
 }
 
 #motorola {
